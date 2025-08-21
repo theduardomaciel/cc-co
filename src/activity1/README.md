@@ -1,4 +1,4 @@
-## [Atividade: Parser para Expressões Infixadas](./Postfix.java)
+# [Atividade: Parser para Expressões Infixadas](./Postfix.java)
 
 Este exercício consiste em ler e compreender o código Java de um Parser (Analisador Sintático) que converte expressões matemáticas infixadas (como `8+3`) para a notação pós-fixada (também chamada de notação polonesa reversa).
 
