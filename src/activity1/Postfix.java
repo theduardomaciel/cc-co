@@ -1,3 +1,5 @@
+package activity1;
+
 import java.io.*;
 
 class Parser {
